@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ccd3174-ba94-45b2-a502-0ba9e5554a36" name="Changes" comment="added Greeting.py">
-      <change afterPath="$PROJECT_DIR$/Shoutouts_to_everyone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/News_api.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
     "Python.Greeting.executor": "Debug",
     "Python.Kaun_Banega_Crorepati.executor": "Run",
     "Python.Merge_the_pdf.executor": "Run",
+    "Python.Shoutouts_to_everyone.executor": "Run",
     "Python.Snake_Water_Gun.executor": "Run",
     "Python.hello.executor": "Run",
     "Python.library_management_system.executor": "Run",
