@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ccd3174-ba94-45b2-a502-0ba9e5554a36" name="Changes" comment="added Greeting.py">
-      <change afterPath="$PROJECT_DIR$/Clear_Clutter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clear_Clutter_2.0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Merge_the_pdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shoutouts_to_everyone.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
