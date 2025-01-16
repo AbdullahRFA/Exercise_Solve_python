@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ccd3174-ba94-45b2-a502-0ba9e5554a36" name="Changes" comment="added Greeting.py">
-      <change afterPath="$PROJECT_DIR$/Snake_Water_Gun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clear_Clutter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clear_Clutter_2.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Merge_the_pdf.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secret_code_language.py" beforeDir="false" afterPath="$PROJECT_DIR$/secret_code_language.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,11 +43,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Clear_Clutter.executor": "Run",
+    "Python.Clear_Clutter_2.0.executor": "Run",
+    "Python.Clear_Cutter.executor": "Run",
     "Python.Create_a_calculator.executor": "Run",
     "Python.Greeting.executor": "Debug",
     "Python.Kaun_Banega_Crorepati.executor": "Run",
+    "Python.Merge_the_pdf.executor": "Run",
     "Python.Snake_Water_Gun.executor": "Run",
     "Python.hello.executor": "Run",
+    "Python.library_management_system.executor": "Run",
     "Python.secret_code_language.executor": "Run",
     "Python.sercret_code_language.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -56,6 +61,11 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
